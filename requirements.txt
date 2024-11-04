@@ -4,4 +4,7 @@ langchain
 PyPDF2
 faiss-cpu
 streamlit
+langchain-groq
+lanchain-community
+plotly
 -e .
